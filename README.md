@@ -1,6 +1,8 @@
 # Metaverse
 ## Overview
 
+Live Demo [here](https://mahn-bonnie-metaverse-world-nextjs.vercel.app/)
+
 ![Screenshot 2024-03-18 09 48 33](https://github.com/mahn-bonnie/metaverse-world/assets/156321537/95e8768e-f7b5-4edc-9cd2-9f1017ae0b9c)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
